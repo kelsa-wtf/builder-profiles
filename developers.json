@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alice Johnson",
+    "expertise": "AI Agent Development, LangChain, RAG Systems",
+    "bio": "Experienced AI engineer specializing in autonomous agents and LLM workflows.",
+    "image": "https://example.com/images/alice.jpg",
+    "skills": ["Python", "LangChain", "AutoGPT", "Neo4j", "Django"],
+    "linkedin": "https://linkedin.com/in/alicejohnson",
+    "github": "https://github.com/alicejohnson",
+    "verified": true
+  },
+  {
+    "name": "Bob Smith",
+    "expertise": "AI Automation, BabyAGI, GPT Agents",
+    "bio": "AI/ML researcher with a focus on scalable AI-driven automation.",
+    "image": "https://example.com/images/bob.jpg",
+    "skills": ["JavaScript", "Node.js", "FastAPI", "Pinecone", "GPT-4"],
+    "linkedin": "https://linkedin.com/in/bsmith",
+    "github": "https://github.com/bsmith",
+    "verified": true
+  },
+  {
+    "name": "Charlie Davis",
+    "expertise": "LLM Fine-Tuning, Reinforcement Learning",
+    "bio": "AI researcher working on fine-tuning large language models for real-world applications.",
+    "image": "https://example.com/images/charlie.jpg",
+    "skills": ["PyTorch", "TensorFlow", "Hugging Face", "RLHF", "Transformers"],
+    "linkedin": "https://linkedin.com/in/charliedavis",
+    "github": "https://github.com/charliedavis",
+    "verified": false
+  },
+  {
+    "name": "Diana Patel",
+    "expertise": "Conversational AI, Chatbots, AI-driven Workflows",
+    "bio": "Built scalable chatbot systems and AI-powered assistants for enterprises.",
+    "image": "https://example.com/images/diana.jpg",
+    "skills": ["Dialogflow", "Rasa", "FastAPI", "LangGraph", "GPT-4"],
+    "linkedin": "https://linkedin.com/in/dianapatel",
+    "github": "https://github.com/dianapatel",
+    "verified": true
+  },
+  {
+    "name": "Ethan Wright",
+    "expertise": "AI Infrastructure, Vector Databases, Retrieval Systems",
+    "bio": "Expert in designing high-performance AI infrastructure and scalable vector search systems.",
+    "image": "https://example.com/images/ethan.jpg",
+    "skills": ["Kubernetes", "Pinecone", "Weaviate", "Neo4j", "Elasticsearch"],
+    "linkedin": "https://linkedin.com/in/ethanwright",
+    "github": "https://github.com/ethanwright",
+    "verified": false
+  }
+]
